@@ -13,7 +13,7 @@ This project demonstrates how to control the volume of your computer using hand 
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/hand-gesture-volume-control.git
+git clone https://github.com/shrey-mishra/hand-gesture-volume-control.git
 cd hand-gesture-volume-control
 ```
 
