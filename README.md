@@ -11,6 +11,12 @@ This project demonstrates how to control the volume of your computer using hand 
 * HandTrackingModule {Already uploaded on GitHub}
 
 ## Installation
+Clone the repository:
+```sh
+git clone https://github.com/yourusername/hand-gesture-volume-control.git
+cd hand-gesture-volume-control
+```
+
 Before running the project, make sure you have all the required libraries installed. You can install them using pip:
 
 ```bash
